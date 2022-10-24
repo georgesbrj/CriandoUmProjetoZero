@@ -26,7 +26,7 @@ interface PostProps {
   post: Post;
 }
 
-// export default function Post() {
+ export default function Post() {
 //   // TODO
 // }
 

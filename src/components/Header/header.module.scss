@@ -1,1 +1,14 @@
-// TODO
+
+.header{
+    width: 1120px;
+    height: 105px;    
+    display: flex;   
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0 auto;
+    padding: 0 2rem;   
+}
+
+.headerContent img{ 
+    padding: 0 0 0  160px;    
+}
